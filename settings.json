@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Verity12345"
+      "password": "Verity123456"
     },
     "anti-afk": {
       "enabled": true,
