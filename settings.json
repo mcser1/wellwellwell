@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "Hmber1213",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "Hmber1213",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
+    "ip": "pixelcraftsmp.mcsh.gg",
     "port": 25565,
     "version": "",
     "try-creative": false
@@ -20,14 +20,14 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "YourAuthPassword"
+      "password": "Verity12345"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
@@ -64,7 +64,7 @@
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
+    "attack-mobs": false,
     "auto-eat": true
   },
   "beds": {
@@ -72,8 +72,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1564516100820045874/IT4VFYkgL06CE8TEmMaEcPSYpxSDeVBjD3TVwkl1AuetoV-8PJxjH8OizXWbTaqdefXR",
     "events": {
       "connect": true,
       "disconnect": true,
